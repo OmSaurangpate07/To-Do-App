@@ -26,26 +26,26 @@ projectfrontend
       - reportWebVitals.js
    - package.json
 
-**Project Backend - **
+**Project Backend -**
 1. Models folder contains all the database models which is required.
 2. Controllers folder contains todo.js file which has functions written for CRUD opperation for create, read, update and delete route.
 3. Routes folder contains get, post, put, and delete routes for todo app
 4. app.js file is the main file of project which contains mongodb database connection, middlewares (CORS, body-parser) and express server.
 
-**Project Frontend - **
+**Project Frontend -**
 1. In src folder App.js is the entry point of any react app.
 2. In src folder Todo.js file contains the frontend logic of the todo app and contains the functions which helps to perform CRUD opperation.
 3. Todo.css file contains the styling part of the application.
-
 This todo app is capable to perform create, read, update and delete opperations efficienty.
 
+
 **Project Requirements and Setup :**
-Project Requirements - 
+**Project Requirements -** 
 1. Install Node
 2. Install MongoDB Compass
 3. Install Visual Studio Code
 
-Setup -
+**Setup -**
 1. Open project folder in Visual Studio Code
 2. Open terminal in Visual Studio Code
 3. Run the followind commad to install all dependencies and to start backend in termial:
@@ -58,6 +58,7 @@ Setup -
    ~ npm install
    ~ npm start
 5. Open any browser and write _http://localhost:3000/_ in search bar to use todo app
+
 
 **Descriptions of Libraries and Tools Used :**
 1. Node.js -  Node is a JavaScript runtime built on Chrome's V8 JavaScript engine which is used to run backend server using express.
