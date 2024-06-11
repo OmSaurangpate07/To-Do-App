@@ -1,5 +1,5 @@
 # To-Do-App
-Approach and Methodology:
+**Approach and Methodology:**
 I used React as a frontend technology and node.js, express.js as a backend technologies with mongoDB as a database for this web application.
 **Folder Structure:**
 projectbackend - 
@@ -69,4 +69,5 @@ This todo app is capable to perform create, read, update and delete opperations 
 6. React - React is a library which is use to design user interfaces.
 7. Axios - Axios is a promise-based HTTP client for the browser and Node.js which is use to make HTTP requests from the React frontend to the backend API for performing CRUD operations.
 
+**Screenshot -**
 ![Screenshot 2024-06-12 002005](https://github.com/OmSaurangpate07/To-Do-App/assets/129660121/8ad0c506-5671-4258-918a-4259e8255793)
